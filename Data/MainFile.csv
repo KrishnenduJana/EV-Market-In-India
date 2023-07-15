@@ -1,0 +1,146 @@
+ModelName,Brand,Type,Price,Power(kwh),Mileage(km)
+Ola S1,Ola,Scooter,129000,3,128
+TVS iQube Electric,TVS,Scooter,161000,3.04,100
+Ather 450X,Ather,Scooter,146000,3.7,165
+Ola S1 Pro,Ola,Scooter,139000,4,181
+Simple One,Simple,Scooter,145000,5,212
+Bajaj Chetak,Bajaj,Scooter,124000,3.04416,90
+Vida V1,Vida,Scooter,125000,3.44,143
+Yulu Wynn,Yulu,Scooter,55555,0.9843,140
+Ola S1 Air,Ola,Scooter,99999,3,101
+Hero Electric Optima,Hero,Scooter,67190,3,140
+Bounce Infinity E1,Bounce,Scooter,64299,1.9,85
+Okinawa PraisePro,Okinawa,Scooter,99645,2,88
+Ampere Magnus EX,Ampere,Scooter,71999,2.28,121
+Kinetic Green Zoom,Kinetic,Scooter,75100,1.32,100
+Ozotec Flio,Ozotec,Scooter,113000,3,100
+Kinetic Green Zing,Kinetic,Scooter,71500,1.32,100
+AMO Electric Jaunty-3W,AMO,Scooter,62964,1.56,75
+River Indie,River,Scooter,125000,4,120
+Avon E Plus,Avon,Scooter,25000,0.576,50
+Ujaas eZy,Ujaas,Scooter,31880,1.248,60
+Ather 450S,Ather,Scooter,129000,3,90
+Avera Retrosa,Avera,Scooter,88900,2.4,140
+Ujaas eGo LA,Ujaas,Scooter,34880,1.248,75
+Okinawa iPraise+,Okinawa,Scooter,145000,3.3,139
+Enigma Ambier,Enigma,Scooter,45000,3.6,70
+Okinawa R30,Okinawa,Scooter,61998,1.25,60
+PURE EV Epluto 7G,PURE,Scooter,86999,3,90
+Hero Electric NYX,Hero,Scooter,73590,2.576,130
+Raftaar Bumblebee,Raftaar,Scooter,88000,1.92,100
+BattRE Electric LoEV,BattRE,Scooter,68900,1.2,60
+Kinetic Green Flex,Kinetic,Scooter,118000,3.1,120
+Komaki XGT KM,Komaki,Scooter,42500,1.326,130
+Lohia Oma Star,Lohia,Scooter,41444,0.96,60
+ADMS TTX,ADMS,Scooter,115000,2.16,100
+NIJ Automotive Accelero R14,NIJ,Scooter,49731,1.92,180
+Komaki Flora,Komaki,Scooter,78999,1.716,75
+HCD India NPS Cargo,HCD,Scooter,54500,3.36,70
+Hero Electric Photon,Hero,Scooter,86391,1.44,60
+Okinawa Ridge,Okinawa,Scooter,84606,3.12,84
+Okinawa Lite,Okinawa,Scooter,66993,1.25,60
+Hero Electric Atria,Hero,Scooter,77690,1.536,85
+Okinawa Dual 100,Okinawa,Scooter,119000,2.64,110
+Okinawa Okhi90,Okinawa,Scooter,186000,3.6,160
+Avon E Star,Avon,Scooter,60000,1.584,65
+EeVe Wind,EeVe,Scooter,59999,1.62,60
+EeVe Xeniaa,EeVe,Scooter,79999,1.56,70
+PURE EV Epluto,PURE,Scooter,71999,2.5,80
+Techo Electra Emerge,Techo,Scooter,73079,1.8,100
+Revolt RV400,Revolt,Bike,124000,3.24,150
+Matter Aera,Matter,Bike,173000,5,125
+Ultraviolette F77,Ultraviolette,Bike,380000,7.1,307
+Tork Kratos,Tork,Bike,168000,4,180
+Oben Rorr,Oben,Bike,102000,4.4,200
+Odysse Electric Evoqis,Odysse,Bike,171000,4.32,80
+Komaki Ranger,Komaki,Bike,185000,3.744,200
+One Electric Motorcycles Kridn,One,Bike,135000,3,110
+Joy e-bike Monster,Joy,Bike,110000,1.656,75
+Atumobile Atum Version 1.0,Atumobile,Bike,69999,1.248,100
+Hop Oxo,Hop,Bike,164000,3.75,150
+Kabira Mobility KM 3000,Kabira,Bike,122000,4,120
+Rowwet Trono,Rowwet,Bike,180000,2.88,100
+Birla V6,Birla,Bike,159000,3.24,203
+Birla DMS,Birla,Bike,162000,3.24,203
+Birla JF,Birla,Bike,162000,3.24,203
+Birla DMG,Birla,Bike,236000,3.24,200
+Birla A 1-4,Birla,Bike,159000,3.24,203
+Earth Energy EV Evolve Z,Earth,Bike,130000,6.912,95
+Earth Energy EV Evolve R,Earth,Bike,142000,4.025,110
+Komaki MX3,Komaki,Bike,95000,2.17,85
+Motovolt Hum,Motovolt,Cycle,"31,049",0.216,30
+Motovolt Ice,Motovolt,Cycle,"28,449",0.216,30
+Motovolt Kivo,Motovolt,Cycle,"29,774",0.576,30
+Motovolt Kivo Easy,Motovolt,Cycle,"29,774",0.576,30
+EMotorad X3,EMotorad,Cycle,"32,999",0.208,25
+SVITCH XE+,SVITCH,Cycle,118000,0.28,120
+EMotorad Desert Eagle,EMotorad,Cycle,500000,0.35,180
+EMotorad Nighthawk,EMotorad,Cycle,475000,0.35,175
+Motovolt Urbn e-Bike,Motovolt,Cycle,"49,999",0.72,120
+Hornback X1,Hornback,Cycle,"44,999",0.2754,45
+EMotorad X1,EMotorad,Cycle,"24,999",0.2754,40
+SVITCH MXE,SVITCH,Cycle,"66,500",0.3132,35
+EMotorad Doodle,EMotorad,Cycle,"79,800",0.36,50
+EMotorad EMX,EMotorad,Cycle,"58,999",0.3744,45
+EMotorad T-Rex,EMotorad,Cycle,"42,999",0.3744,45
+Hero Lectro F6i,Hero,Cycle,"54,999",0.4176,60
+Toutche Heileo H200,Toutche,Cycle,"53,900",0.4176,75
+Toutche Heileo M200,Toutche,Cycle,"57,900",0.4176,75
+Toutche Heileo M100,Toutche,Cycle,"49,900",0.4176,75
+Hero Lectro C6,Hero,Cycle,"34,999",0.2088,25
+Hero Lectro C8,Hero,Cycle,"36,999",0.2088,30
+Hero Lectro C3,Hero,Cycle,"28,999",0.2088,30
+Hero Lectro C5,Hero,Cycle,"30,999",0.2088,30
+Hero Lectro C7,Hero,Cycle,"34,999",0.22896,25
+Hero Lectro C7+,Hero,Cycle,"34,999",0.22896,25
+Hero Lectro C8i,Hero,Cycle,"39,999",0.22896,25
+Hero Lectro F3i,Hero,Cycle,"42,999",0.2304,25
+Hero Lectro F2I,Hero,Cycle,"39,999",0.2304,25
+Hero Lectro C9,Hero,Cycle,"46,999",0.3132,25
+Hero Lectro WINN,Hero,Cycle,"44,090",0.4176,55
+Hero Lectro WINN-X,Hero,Cycle,"44,419",0.4176,70
+Motovolt Kivo 24,Motovolt,Cycle,"29,774",30.24,25
+SVITCH XE,SVITCH,Cycle,"82,250",0.5568,80
+Essel Energy GET 1,Essel,Cycle,"37,500",0.528,40
+Essel Energy GET 7,Essel,Cycle,"43,500",0.528,70
+Nexzu Rompus Plus,Nexzu,Cycle,"33,999",1.3,32
+Nexzu Bazinga,Nexzu,Cycle,"46,999",0.04264,100
+Nexzu Roadlark,Nexzu,Cycle,"45,999",0.04524,100
+Hero Lectro C1,Hero,Cycle,"32,999",1.45,30
+Hero Lectro C5X,Hero,Cycle,"38,999",1.45,30
+Hero Lectro F1,Hero,Cycle,"38,999",1.45,30
+Hero Lectro H3,Hero,Cycle,"28,499",1.45,30
+Hero Lectro H5,Hero,Cycle,"29,999",1.45,30
+Polarity Smart Sport,Polarity,Cycle,"40,000",0.25,80
+Polarity Smart Executive,Polarity,Cycle,"38,000",0.25,80
+EMotorad X2,EMotorad,Cycle,"27,999",1.95,25
+Audi e-tron,Audi,Car,10200000,95,359
+Audi e-tron GT,Audi,Car,17000000,93.4,388
+Audi RS e-tron GT,Audi,Car,19300000,93.4,401
+BMW i4,BMW,Car,19500000,101,590
+BMW i7,BMW,Car,12100000,71,372
+BMW iX,BMW,Car,11900000,90,200
+BYD Atto 3,BYD,Car,15900000,107,857
+BYD E6,BYD,Car,15300000,79.2,395
+Citroen eC3,Citroen,Car,7390000,83.9,493
+Hyundai IONIQ 5,Hyundai,Car,3399000,60.4,521
+Hyundai Kona Electric,Hyundai,Car,2915000,71.7,415
+Jaguar I-Pace,Jaguar,Car,1150000,29.2,56.2
+Kia EV6,Kia,Car,4595000,72.6,631
+Mahindra E Verito,Mahindra,Car,2384000,39.2,100
+Mahindra XUV400 EV,Mahindra,Car,6095000,77.4,708
+Mercedes-Benz EQB,Mercedes-Benz,Car,1267000,41.5,110
+Mercedes-Benz EQC,Mercedes-Benz,Car,1048000,34.5,456
+Mercedes-Benz EQS,Mercedes-Benz,Car,7450000,66.5,423
+MG Comet EV,MG,Car,9950000,80,455
+MG ZS EV,MG,Car,798000,17.3,230
+Mini Cooper SE,Mini,Car,2338000,50.3,461
+PMV EaS E,PMV,Car,5250000,32.6,270
+Porsche Taycan,Porsche,Car,479000,13.41,200
+Pravaig DEFY,Pravaig,Car,3950000,90,500
+Strom Motors R3,Strom,Car,450000,15,200
+Tata Nexon EV Max,Tata,Car,1649000,40.5,453
+Tata Nexon EV Prime,Tata,Car,1449000,30.2,312
+Tata Tiago EV,Tata,Car,869000,19.2,315
+Tata Tigor EV,Tata,Car,1249000,26,315
+Volvo XC40 Recharge,Volvo,Car,5690000,78,418

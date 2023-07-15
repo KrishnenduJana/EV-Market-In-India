@@ -1,0 +1,146 @@
+ModelName,Brand,Type,Price,Power(kwh),Mileage(km)
+Ola S1,Ola,Scooter,"129,000.00",3.00,128.00
+TVS iQube Electric,TVS,Scooter,"161,000.00",3.04,100.00
+Ather 450X,Ather,Scooter,"146,000.00",3.70,165.00
+Ola S1 Pro,Ola,Scooter,"139,000.00",4.00,181.00
+Simple One,Simple,Scooter,"145,000.00",5.00,212.00
+Bajaj Chetak,Bajaj,Scooter,"124,000.00",3.04,90.00
+Vida V1,Vida,Scooter,"125,000.00",3.44,143.00
+Yulu Wynn,Yulu,Scooter,"55,555.00",0.98,140.00
+Ola S1 Air,Ola,Scooter,"99,999.00",3.00,101.00
+Hero Electric Optima,Hero,Scooter,"67,190.00",3.00,140.00
+Bounce Infinity E1,Bounce,Scooter,"64,299.00",1.90,85.00
+Okinawa PraisePro,Okinawa,Scooter,"99,645.00",2.00,88.00
+Ampere Magnus EX,Ampere,Scooter,"71,999.00",2.28,121.00
+Kinetic Green Zoom,Kinetic,Scooter,"75,100.00",1.32,100.00
+Ozotec Flio,Ozotec,Scooter,"113,000.00",3.00,100.00
+Kinetic Green Zing,Kinetic,Scooter,"71,500.00",1.32,100.00
+AMO Electric Jaunty-3W,AMO,Scooter,"62,964.00",1.56,75.00
+River Indie,River,Scooter,"125,000.00",4.00,120.00
+Avon E Plus,Avon,Scooter,"25,000.00",0.58,50.00
+Ujaas eZy,Ujaas,Scooter,"31,880.00",1.25,60.00
+Ather 450S,Ather,Scooter,"129,000.00",3.00,90.00
+Avera Retrosa,Avera,Scooter,"88,900.00",2.40,140.00
+Ujaas eGo LA,Ujaas,Scooter,"34,880.00",1.25,75.00
+Okinawa iPraise+,Okinawa,Scooter,"145,000.00",3.30,139.00
+Enigma Ambier,Enigma,Scooter,"45,000.00",3.60,70.00
+Okinawa R30,Okinawa,Scooter,"61,998.00",1.25,60.00
+PURE EV Epluto 7G,PURE,Scooter,"86,999.00",3.00,90.00
+Hero Electric NYX,Hero,Scooter,"73,590.00",2.58,130.00
+Raftaar Bumblebee,Raftaar,Scooter,"88,000.00",1.92,100.00
+BattRE Electric LoEV,BattRE,Scooter,"68,900.00",1.20,60.00
+Kinetic Green Flex,Kinetic,Scooter,"118,000.00",3.10,120.00
+Komaki XGT KM,Komaki,Scooter,"42,500.00",1.33,130.00
+Lohia Oma Star,Lohia,Scooter,"41,444.00",0.96,60.00
+ADMS TTX,ADMS,Scooter,"115,000.00",2.16,100.00
+NIJ Automotive Accelero R14,NIJ,Scooter,"49,731.00",1.92,180.00
+Komaki Flora,Komaki,Scooter,"78,999.00",1.72,75.00
+HCD India NPS Cargo,HCD,Scooter,"54,500.00",3.36,70.00
+Hero Electric Photon,Hero,Scooter,"86,391.00",1.44,60.00
+Okinawa Ridge,Okinawa,Scooter,"84,606.00",3.12,84.00
+Okinawa Lite,Okinawa,Scooter,"66,993.00",1.25,60.00
+Hero Electric Atria,Hero,Scooter,"77,690.00",1.54,85.00
+Okinawa Dual 100,Okinawa,Scooter,"119,000.00",2.64,110.00
+Okinawa Okhi90,Okinawa,Scooter,"186,000.00",3.60,160.00
+Avon E Star,Avon,Scooter,"60,000.00",1.58,65.00
+EeVe Wind,EeVe,Scooter,"59,999.00",1.62,60.00
+EeVe Xeniaa,EeVe,Scooter,"79,999.00",1.56,70.00
+PURE EV Epluto,PURE,Scooter,"71,999.00",2.50,80.00
+Techo Electra Emerge,Techo,Scooter,"73,079.00",1.80,100.00
+Revolt RV400,Revolt,Bike,"124,000.00",3.24,150.00
+Matter Aera,Matter,Bike,"173,000.00",5.00,125.00
+Ultraviolette F77,Ultraviolette,Bike,"380,000.00",7.10,307.00
+Tork Kratos,Tork,Bike,"168,000.00",4.00,180.00
+Oben Rorr,Oben,Bike,"102,000.00",4.40,200.00
+Odysse Electric Evoqis,Odysse,Bike,"171,000.00",4.32,80.00
+Komaki Ranger,Komaki,Bike,"185,000.00",3.74,200.00
+One Electric Motorcycles Kridn,One,Bike,"135,000.00",3.00,110.00
+Joy e-bike Monster,Joy,Bike,"110,000.00",1.66,75.00
+Atumobile Atum Version 1.0,Atumobile,Bike,"69,999.00",1.25,100.00
+Hop Oxo,Hop,Bike,"164,000.00",3.75,150.00
+Kabira Mobility KM 3000,Kabira,Bike,"122,000.00",4.00,120.00
+Rowwet Trono,Rowwet,Bike,"180,000.00",2.88,100.00
+Birla V6,Birla,Bike,"159,000.00",3.24,203.00
+Birla DMS,Birla,Bike,"162,000.00",3.24,203.00
+Birla JF,Birla,Bike,"162,000.00",3.24,203.00
+Birla DMG,Birla,Bike,"236,000.00",3.24,200.00
+Birla A 1-4,Birla,Bike,"159,000.00",3.24,203.00
+Earth Energy EV Evolve Z,Earth,Bike,"130,000.00",6.91,95.00
+Earth Energy EV Evolve R,Earth,Bike,"142,000.00",4.03,110.00
+Komaki MX3,Komaki,Bike,"95,000.00",2.17,85.00
+Motovolt Hum,Motovolt,Cycle,"31,049.00",0.22,30.00
+Motovolt Ice,Motovolt,Cycle,"28,449.00",0.22,30.00
+Motovolt Kivo,Motovolt,Cycle,"29,774.00",0.58,30.00
+Motovolt Kivo Easy,Motovolt,Cycle,"29,774.00",0.58,30.00
+EMotorad X3,EMotorad,Cycle,"32,999.00",0.21,25.00
+SVITCH XE+,SVITCH,Cycle,"118,000.00",0.28,120.00
+EMotorad Desert Eagle,EMotorad,Cycle,"500,000.00",0.35,180.00
+EMotorad Nighthawk,EMotorad,Cycle,"475,000.00",0.35,175.00
+Motovolt Urbn e-Bike,Motovolt,Cycle,"49,999.00",0.72,120.00
+Hornback X1,Hornback,Cycle,"44,999.00",0.28,45.00
+EMotorad X1,EMotorad,Cycle,"24,999.00",0.28,40.00
+SVITCH MXE,SVITCH,Cycle,"66,500.00",0.31,35.00
+EMotorad Doodle,EMotorad,Cycle,"79,800.00",0.36,50.00
+EMotorad EMX,EMotorad,Cycle,"58,999.00",0.37,45.00
+EMotorad T-Rex,EMotorad,Cycle,"42,999.00",0.37,45.00
+Hero Lectro F6i,Hero,Cycle,"54,999.00",0.42,60.00
+Toutche Heileo H200,Toutche,Cycle,"53,900.00",0.42,75.00
+Toutche Heileo M200,Toutche,Cycle,"57,900.00",0.42,75.00
+Toutche Heileo M100,Toutche,Cycle,"49,900.00",0.42,75.00
+Hero Lectro C6,Hero,Cycle,"34,999.00",0.21,25.00
+Hero Lectro C8,Hero,Cycle,"36,999.00",0.21,30.00
+Hero Lectro C3,Hero,Cycle,"28,999.00",0.21,30.00
+Hero Lectro C5,Hero,Cycle,"30,999.00",0.21,30.00
+Hero Lectro C7,Hero,Cycle,"34,999.00",0.23,25.00
+Hero Lectro C7+,Hero,Cycle,"34,999.00",0.23,25.00
+Hero Lectro C8i,Hero,Cycle,"39,999.00",0.23,25.00
+Hero Lectro F3i,Hero,Cycle,"42,999.00",0.23,25.00
+Hero Lectro F2I,Hero,Cycle,"39,999.00",0.23,25.00
+Hero Lectro C9,Hero,Cycle,"46,999.00",0.31,25.00
+Hero Lectro WINN,Hero,Cycle,"44,090.00",0.42,55.00
+Hero Lectro WINN-X,Hero,Cycle,"44,419.00",0.42,70.00
+Motovolt Kivo 24,Motovolt,Cycle,"29,774.00",30.24,25.00
+SVITCH XE,SVITCH,Cycle,"82,250.00",0.56,80.00
+Essel Energy GET 1,Essel,Cycle,"37,500.00",0.53,40.00
+Essel Energy GET 7,Essel,Cycle,"43,500.00",0.53,70.00
+Nexzu Rompus Plus,Nexzu,Cycle,"33,999.00",1.30,32.00
+Nexzu Bazinga,Nexzu,Cycle,"46,999.00",0.04,100.00
+Nexzu Roadlark,Nexzu,Cycle,"45,999.00",0.05,100.00
+Hero Lectro C1,Hero,Cycle,"32,999.00",1.45,30.00
+Hero Lectro C5X,Hero,Cycle,"38,999.00",1.45,30.00
+Hero Lectro F1,Hero,Cycle,"38,999.00",1.45,30.00
+Hero Lectro H3,Hero,Cycle,"28,499.00",1.45,30.00
+Hero Lectro H5,Hero,Cycle,"29,999.00",1.45,30.00
+Polarity Smart Sport,Polarity,Cycle,"40,000.00",0.25,80.00
+Polarity Smart Executive,Polarity,Cycle,"38,000.00",0.25,80.00
+EMotorad X2,EMotorad,Cycle,"27,999.00",1.95,25.00
+Audi e-tron,Audi,Car,"10,200,000.00",95.00,359.00
+Audi e-tron GT,Audi,Car,"17,000,000.00",93.40,388.00
+Audi RS e-tron GT,Audi,Car,"19,300,000.00",93.40,401.00
+BMW i4,BMW,Car,"19,500,000.00",101.00,590.00
+BMW i7,BMW,Car,"12,100,000.00",71.00,372.00
+BMW iX,BMW,Car,"11,900,000.00",90.00,200.00
+BYD Atto 3,BYD,Car,"15,900,000.00",107.00,857.00
+BYD E6,BYD,Car,"15,300,000.00",79.20,395.00
+Citroen eC3,Citroen,Car,"7,390,000.00",83.90,493.00
+Hyundai IONIQ 5,Hyundai,Car,"3,399,000.00",60.40,521.00
+Hyundai Kona Electric,Hyundai,Car,"2,915,000.00",71.70,415.00
+Jaguar I-Pace,Jaguar,Car,"1,150,000.00",29.20,56.20
+Kia EV6,Kia,Car,"4,595,000.00",72.60,631.00
+Mahindra E Verito,Mahindra,Car,"2,384,000.00",39.20,100.00
+Mahindra XUV400 EV,Mahindra,Car,"6,095,000.00",77.40,708.00
+Mercedes-Benz EQB,Mercedes-Benz,Car,"1,267,000.00",41.50,110.00
+Mercedes-Benz EQC,Mercedes-Benz,Car,"1,048,000.00",34.50,456.00
+Mercedes-Benz EQS,Mercedes-Benz,Car,"7,450,000.00",66.50,423.00
+MG Comet EV,MG,Car,"9,950,000.00",80.00,455.00
+MG ZS EV,MG,Car,"798,000.00",17.30,230.00
+Mini Cooper SE,Mini,Car,"2,338,000.00",50.30,461.00
+PMV EaS E,PMV,Car,"5,250,000.00",32.60,270.00
+Porsche Taycan,Porsche,Car,"479,000.00",13.41,200.00
+Pravaig DEFY,Pravaig,Car,"3,950,000.00",90.00,500.00
+Strom Motors R3,Strom,Car,"450,000.00",15.00,200.00
+Tata Nexon EV Max,Tata,Car,"1,649,000.00",40.50,453.00
+Tata Nexon EV Prime,Tata,Car,"1,449,000.00",30.20,312.00
+Tata Tiago EV,Tata,Car,"869,000.00",19.20,315.00
+Tata Tigor EV,Tata,Car,"1,249,000.00",26.00,315.00
+Volvo XC40 Recharge,Volvo,Car,"5,690,000.00",78.00,418.00
